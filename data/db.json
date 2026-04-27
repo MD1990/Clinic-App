@@ -1,0 +1,22 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "name": "Ali Khan",
+      "date": "2026-04-26T09:00",
+      "confirmed": false
+    },
+    {
+      "id": 2,
+      "name": "Sara Ahmed",
+      "date": "2026-04-26T10:00",
+      "confirmed": false
+    },
+    {
+      "id": 3,
+      "name": "John Smith",
+      "date": "2026-04-26T11:00",
+      "confirmed": true
+    }
+  ]
+}

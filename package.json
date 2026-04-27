@@ -1,1 +1,21 @@
-{\n  "name": "clinic-ops-sandbox",\n  "version": "0.1.0",\n  "private": true,\n  "scripts": {\n    "dev": "next dev -p 3000",\n    "build": "next build",\n    "start": "next start -p 3000"\n  },\n  "dependencies": {\n    "next": "13.4.7",\n    "react": "18.2.0",\n    "react-dom": "18.2.0"\n  }\n}
+{
+  "name": "clinic-saas-v11",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "framer-motion": "^11.0.0",
+    "next": "14.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "25.6.0",
+    "@types/react": "19.2.14",
+    "typescript": "6.0.3"
+  }
+}
